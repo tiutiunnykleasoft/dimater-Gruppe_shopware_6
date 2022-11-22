@@ -25,7 +25,7 @@ class ApiTestController
     }
 
     /**
-     * @Route(path="/api/_action/dimater-Gruppe/verify", methods={"POST"})
+     * @Route(path="/api/_action/dimater/verify", methods={"POST"})
      */
     public function check(RequestDataBag $dataBag): JsonResponse
     {
