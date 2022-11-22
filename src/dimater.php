@@ -4,4 +4,4 @@ namespace GingerPlugin;
 
 use GingerPlugin\ginger;
 
-class dipaygo extends ginger{}
+class dimater extends ginger{}
