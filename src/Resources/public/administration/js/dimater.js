@@ -1,4 +1,4 @@
-(this.webpackJsonp = this.webpackJsonp || []).push([["dipaygo"], {
+(this.webpackJsonp = this.webpackJsonp || []).push([["dimater"], {
     OA1K: function (t, e, s) {
         "use strict";
         s.r(e);
@@ -46,7 +46,7 @@
         const s = Shopware.Classes.ApiService, {Application: i} = Shopware;
 
         class n extends s {
-            constructor(t, e, s = "dipaygo") {
+            constructor(t, e, s = "dimater") {
                 super(t, e, s)
             }
 
