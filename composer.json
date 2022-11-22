@@ -1,12 +1,12 @@
 {
   "name": "ginger/dimater payments",
-  "description": "Dimater Group payments all-in-one plugin",
+  "description": "Dimater Payments all-in-one plugin",
   "version": "place",
   "type": "shopware-platform-plugin",
   "license": "MIT",
   "authors": [
     {
-      "name": "Dipaygo Payments"
+      "name": "Dimater Payments"
     }
   ],
   "require": {
@@ -16,16 +16,16 @@
   "extra": {
     "shopware-plugin-class": "GingerPlugin\\dipaygo",
     "label": {
-      "de-DE": "dimater-Gruppe",
-      "en-GB": "Dimater Group"
+      "de-DE": "Dimater Zahlungen",
+      "en-GB": "Dimater Payments"
     },
     "manufacturerLink": {
       "de-DE": "https://www.di-mater.com/dimater-gruppe/",
       "en-GB": "https://www.di-mater.com/dimater-gruppe/"
     },
     "description": {
-      "de-DE": "dimater-Gruppe Zahlungs-Plugin",
-      "en-GB": "Dimater Group Payment Plugin"
+      "de-DE": "Dimater Zahlungs Plugin",
+      "en-GB": "Dimater Payments Plugin"
     }
   },
   "autoload": {
