@@ -1,9 +1,9 @@
 {
-  "name": "ginger/dimater-Gruppe_payments",
+  "name": "ginger/dimater payments",
   "description": "Dimater Group payments all-in-one plugin",
   "version": "v1.6.0",
   "type": "shopware-platform-plugin",
-  "license": "proprietary",
+  "license": "MIT",
   "authors": [
     {
       "name": "Dipaygo Payments"

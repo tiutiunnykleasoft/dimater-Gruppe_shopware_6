@@ -1,4 +1,4 @@
-# Dimater Group plugin for Shopware 6
+# Dimater Group Online plugin for Shopware 6
 This is the official Dimater Group plugin.
 
 ## About
