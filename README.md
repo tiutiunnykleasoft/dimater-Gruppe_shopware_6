@@ -2,7 +2,7 @@
 This is the official Dimater Group plugin.
 
 ## About
-By integrating your webshop with Dimater Group you can accept payments from your customers in an easy and trusted manner with all relevant payment methods supported.
+By integrating your webshop with Dimater Payments you can accept payments from your customers in an easy and trusted manner with all relevant payment methods supported.
 
 ## Version number
 Version 1.6.0
@@ -17,7 +17,7 @@ Manual installation of the Shopware 6 plugin using (s)FTP
 1. Create the 'dipaygo' folder in the directory <i><b>root</b></i>/custom/plugins/. Unzip your archive with the plugin to that folder.
 2. Go to the admin panel, this will be '/admin' in your URL address. 
 3. Open tab Settings>System>Plugins. 
-    * In list front of you search "Dimater Group".
+    * In list front of you search "Dimater Payments".
     * On the last column click the button with three dots, this will show an additional menu.
     * Click the "Install" Field. 
     * After the installation in the same menu click the "Config" field.  
@@ -40,6 +40,6 @@ Manual installation of the Shopware 6 plugin using (s)FTP
     * On the left menu opens your Sales Channel, by default this called "Storefront".
     * On "General" tab, you can find the block "General Settings".
     * On that area find the "Payment" options.
-    * Click on the empty space to see the list of Dimater Group payments methods, and select the ones you want to add to the Shop.
+    * Click on the empty space to see the list of Dimater Payments methods, and select the ones you want to add to the Shop.
     * After all, operations click the "Save" button to save changes.
 6. Compatibility: Shopware 6.*
