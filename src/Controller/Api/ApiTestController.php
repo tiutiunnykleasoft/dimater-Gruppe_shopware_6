@@ -38,7 +38,7 @@ class ApiTestController
 
         try {
             $apiKey = $dataBag->get($key);
-            $ginger_client = $this->client->getGingerClient($apiKey);
+            $ginger_client = $this->client->getGingerClient($apiKey, false);
             $ginger_client->getIdealIssuers();
         } catch (\Exception $exception) {
             $success = false;
