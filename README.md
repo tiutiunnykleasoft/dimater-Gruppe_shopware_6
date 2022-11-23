@@ -1,5 +1,5 @@
-# Dimater Group Online plugin for Shopware 6
-This is the official Dimater Group plugin.
+# Dimater Payments plugin for Shopware 6
+This is the official Dimater Payments plugin.
 
 ## About
 By integrating your webshop with Dimater Payments you can accept payments from your customers in an easy and trusted manner with all relevant payment methods supported.
