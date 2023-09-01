@@ -8,12 +8,11 @@ use Shopware\Core\Framework\Validation\DataBag\RequestDataBag;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpFoundation\JsonResponse;
 
-# don't remove this 2 uses, important for shopware classes!
-use Shopware\Core\Framework\Routing\Annotation\RouteScope;
+# don't remove this uses, important for shopware classes!
 use Symfony\Component\Routing\Annotation\Route;
 
 /**
- * @RouteScope(scopes={"administration"})
+ * @Route(defaults={"_routeScope"={"administration"}})
  */
 class ApiTestController
 {
