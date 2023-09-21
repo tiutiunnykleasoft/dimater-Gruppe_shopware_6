@@ -5,7 +5,7 @@ This is the official Dimater Payments plugin.
 By integrating your webshop with Dimater Payments you can accept payments from your customers in an easy and trusted manner with all relevant payment methods supported.
 
 ## Version number
-Version 1.6.2
+Version 1.6.3
 
 ## Pre-requisites to install the plug-ins: 
 - PHP v7.2 and above
